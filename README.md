@@ -13,7 +13,7 @@ Three different selection functions are tested:
 
 - Margin selection: select the *k* samples with the lowest difference between the two highest class probability.
 
-Three exactly equal CNNs are trained with this three different approaches and are compared with the same CNN trained using
+Three exactly equal CNNs are trained with these three different approaches and are compared with the same CNN trained using
 fully supervised learning. All three active models achieve really good performances (above 90% accuracy) using only 1000
 training images (which is only the 14% of all available images in the dataset). This proves the strength of active learning!
 
