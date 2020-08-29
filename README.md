@@ -19,7 +19,7 @@ training images (which is only the 14% of all available images in the dataset). 
 
 ## Data
 
-You can download the MNIST dataset directly from Lecun's site [http://yann.lecun.com/exdb/mnist/] and place it inside the directory
+You can download the MNIST dataset directly from Le Cun's site [http://yann.lecun.com/exdb/mnist/] and place it inside the directory
 /data/MNIST/
 
 ## Acknowledgments
